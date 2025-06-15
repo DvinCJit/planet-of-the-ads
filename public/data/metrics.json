@@ -1,0 +1,19 @@
+[
+    {
+        "campaign": "Summer Sale",
+        "platform": "Meta",
+        "date": "2025-06-01",
+        "impressions": 12000,
+        "clicks": 300,
+        "spend": 60
+    },
+    {
+        "campaign": "Summer Sale",
+        "platform": "Google",
+        "date": "2025-06-03",
+        "impressions": 16000,
+        "clicks": 800,
+        "spend": 80
+    }
+
+]

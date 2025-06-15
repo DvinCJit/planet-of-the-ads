@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "campaign": "Summer Sale",
+        "platform": "Meta",
+        "title": "¡Ofertas hasta 50%!",
+        "description": "Solo por tiempo limitado",
+        "image": "https://picsum.photos/200",
+        "cta": "Comprar ahora"
+    },
+    {
+        "id": "2",
+        "campaign": "Summer Sale",
+        "platform": "Google",
+        "title": "¡Ofertas hasta 50%!",
+        "description": "Solo por tiempo limitado",
+        "image": "https://picsum.photos/200",
+        "cta": "Comprar ahora"
+    }
+]
