@@ -1,19 +1,50 @@
 [
     {
-        "campaign": "Summer Sale",
+        "campaign": "Navidad 2024",
         "platform": "Meta",
-        "date": "2025-06-01",
+        "date": "2024-12-01",
         "impressions": 12000,
-        "clicks": 300,
-        "spend": 60
+        "clicks": 1800,
+        "spend": 450
     },
     {
-        "campaign": "Summer Sale",
-        "platform": "Google",
-        "date": "2025-06-03",
-        "impressions": 16000,
-        "clicks": 800,
-        "spend": 80
+        "campaign": "Navidad 2024",
+        "platform": "Meta",
+        "date": "2024-12-02",
+        "impressions": 13000,
+        "clicks": 1900,
+        "spend": 470
+    },
+    {
+        "campaign": "Navidad 2024",
+        "platform": "TikTok",
+        "date": "2024-12-01",
+        "impressions": 10000,
+        "clicks": 2200,
+        "spend": 390
+    },
+    {
+        "campaign": "Verano 2024",
+        "platform": "Meta",
+        "date": "2024-07-01",
+        "impressions": 9500,
+        "clicks": 1400,
+        "spend": 310
+    },
+    {
+        "campaign": "Lanzamiento Galaxy",
+        "platform": "Google Ads",
+        "date": "2024-09-15",
+        "impressions": 20000,
+        "clicks": 2600,
+        "spend": 920
+    },
+    {
+        "campaign": "Back to School",
+        "platform": "YouTube",
+        "date": "2024-08-20",
+        "impressions": 15000,
+        "clicks": 1800,
+        "spend": 600
     }
-
 ]

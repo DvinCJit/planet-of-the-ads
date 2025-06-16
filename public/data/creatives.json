@@ -1,20 +1,47 @@
 [
-    {
-        "id": "1",
-        "campaign": "Summer Sale",
-        "platform": "Meta",
-        "title": "¡Ofertas hasta 50%!",
-        "description": "Solo por tiempo limitado",
-        "image": "https://picsum.photos/200",
-        "cta": "Comprar ahora"
-    },
-    {
-        "id": "2",
-        "campaign": "Summer Sale",
-        "platform": "Google",
-        "title": "¡Ofertas hasta 50%!",
-        "description": "Solo por tiempo limitado",
-        "image": "https://picsum.photos/200",
-        "cta": "Comprar ahora"
-    }
+{
+"id": "ad1",
+"campaign": "Navidad 2024",
+"platform": "Meta",
+"title": "Regalos para todos",
+"description": "Descubre nuestras ofertas navideñas.",
+"image": "https://picsum.photos/200",
+"cta": "Ver más"
+},
+{
+"id": "ad2",
+"campaign": "Navidad 2024",
+"platform": "TikTok",
+"title": "Promoción exclusiva 🎁",
+"description": "Solo por tiempo limitado en TikTok.",
+"image": "https://picsum.photos/200",
+"cta": "Aprovechar"
+},
+{
+"id": "ad3",
+"campaign": "Verano 2024",
+"platform": "Meta",
+"title": "Oferta veraniega",
+"description": "Disfruta del sol con descuentos.",
+"image": "https://picsum.photos/200",
+"cta": "Comprar ahora"
+},
+{
+"id": "ad4",
+"campaign": "Lanzamiento Galaxy",
+"platform": "Google Ads",
+"title": "Nuevo Galaxy Z",
+"description": "El futuro es plegable.",
+"image": "https://picsum.photos/200",
+"cta": "Conócelo"
+},
+{
+"id": "ad5",
+"campaign": "Back to School",
+"platform": "YouTube",
+"title": "Vuelve con estilo",
+"description": "Todo lo que necesitas para la vuelta al cole.",
+"image": "https://picsum.photos/200",
+"cta": "Explorar"
+}
 ]
