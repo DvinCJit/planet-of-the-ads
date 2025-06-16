@@ -3,6 +3,9 @@ Planet of the Ads es una Single Page Application desarrollada con React + TypeSc
 
 Esta plataforma permite visualizar creatividades publicitarias, filtrarlas por campaña y plataforma, y explorar un dashboard de métricas con visualización de datos y filtros dinámicos.
 
+### 📸 Preview 
+![Cities Quiz Preview](https://res.cloudinary.com/drdwtcsc4/image/upload/v1750042386/Others/chrome_bfrvRz8Fja_ssyvsv.gif "Cities Quiz Preview")
+
 ### 🛠 Stack técnico
 React 18 + Vite
 
@@ -17,9 +20,6 @@ Recharts (visualización de datos)
 Arquitectura de componentes
 
 JSON local simulado como backend
-
-### 📸 Preview 
-![Cities Quiz Preview](https://res.cloudinary.com/drdwtcsc4/video/upload/v1750041663/Others/2025-06-16_04-35-59_trop86.mkv "Cities Quiz Preview")
 
 ### 🚀 Funcionalidades principales
 Galería de anuncios con filtro por campaña y plataforma
