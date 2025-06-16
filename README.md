@@ -35,6 +35,7 @@ Componentes reutilizables y tipado estricto con TypeScript
 Diseño responsive y minimalista con Tailwind CSS
 
 ### 📁 Estructura del proyecto
+```txt
 src/
 ├── App.tsx
 ├── main.tsx
@@ -49,6 +50,7 @@ src/
 │ └── MetricsDashboard.tsx
 ├── types.ts
 └── index.css
+```
 
 ### ▶️ Instalación y ejecución
 Clona el repositorio:
